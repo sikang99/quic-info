@@ -19,6 +19,7 @@ HTTP/3 Information
     - [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2)
     - [HTTP/3](https://en.wikipedia.org/wiki/HTTP/3)
 - daniel.haxxe.se's Tag Archives: [QUIC](https://daniel.haxx.se/blog/tag/quic/)
+    - [HTTP/3 Explained](https://daniel.haxx.se/http3-explained/)
 
 
 ### Open Source
