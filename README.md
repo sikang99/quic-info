@@ -21,6 +21,7 @@ HTTP/3 Information
 - 2019/01/04 [**QUICの現状確認をしたい**](https://qiita.com/flano_yuki/items/251a350b4f8a31de47f5)
 - 2019/00/00
 - 2018/11/16 [What is HTTP/3 ?](https://medium.com/devgorilla/what-is-http-3-94335c57823f)
+- 2018/11/15 [QUIC (HTTP/3)](https://www.chromestatus.com/feature/5338403830759424)
 - 2018/10/29 [What's Happening with QUIC](https://www.ietf.org/blog/whats-happening-quic/)
 
 
@@ -64,6 +65,8 @@ HTTP/3 Information
 
 
 ### Papers
+- 2019 [Pluginizing QUIC](https://cdn.uclouvain.be/groups/cms-editors-ingi/articles/Pluginzing%20QUIC.pdf)
+- 2019 [A Performance Perspective on Web Optimized Protocol Stacks: TCP+TLS+HTTP/2 vs. QUIC](https://irtf.org/anrw/2019/anrw2019-final25-acmpaginated.pdf)
 - 2019 [A QUIC Look at Web Tracking](https://svs.informatik.uni-hamburg.de/publications/2019/2019-02-26-Sy-PET_Symposium-A_QUIC_Look_at_Web_Tracking.pdf)
 - 2019 [The Case for Writing Network Drivers in High-Level Programming Languages](https://arxiv.org/pdf/1909.06344.pdf)
 - 2019 [Recent Progress on the QUIC Protocol](https://www.net.in.tum.de/fileadmin/TUM/NET/NET-2019-06-1/NET-2019-06-1_16.pdf)
