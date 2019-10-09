@@ -32,6 +32,9 @@ HTTP/3 Information
 - [The Chromium Projects](https://www.chromium.org/): [QUIC, a multiplexed stream transport over UDP](https://www.chromium.org/quic)
 
 
+### Test for QUIC
+- [Cloudflare and QUIC](https://cloudflare-quic.com/)
+
 
 ### Open Source
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
@@ -41,4 +44,9 @@ HTTP/3 Information
 - [pion/quic](https://github.com/pion/quic) - A Go implementation of the QUIC API for Peer-to-peer and Client-to-Server Connections
 
 
+### Sldies
+- 2018 [HTTP/2 & QUIC](https://www.blackhat.com/docs/us-16/materials/us-16-Pearce-HTTP2-&-QUIC-Teaching-Good-Protocols-To-Do-Bad-Things.pdf)
+
+### Papers
+- 2018 [The QUIC Fix for Optimal Video Streaming](https://arxiv.org/pdf/1809.10270.pdf)
 
