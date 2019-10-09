@@ -33,6 +33,8 @@ HTTP/3 Information
 - [The Chromium Projects](https://www.chromium.org/): [QUIC, a multiplexed stream transport over UDP](https://www.chromium.org/quic)
 - [The Top 25 Quic Open Source Projects](https://awesomeopensource.com/projects/quic)
 - [Algernon](https://algernon.roboticoverlords.org/)
+- [QUIC research](https://quic.edm.uhasselt.be/)
+
 
 ### Test for QUIC
 - [Cloudflare and QUIC](https://cloudflare-quic.com/)
@@ -45,9 +47,11 @@ HTTP/3 Information
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - Savoury implementation of the QUIC transport protocol and HTTP/3 
 - [pion/quic](https://github.com/pion/quic) - A Go implementation of the QUIC API for Peer-to-peer and Client-to-Server Connections
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
-
+- [google/quic-trace](https://github.com/google/quic-trace) - Library and tools for transcribing QUIC connections.
+- [rmarx/QUICvis](https://github.com/rmarx/QUICvis) - <DEPRECATED> Assortment of debugging tools for the IETF QUIC and HTTP/3 protocols
 
 ### Sldies
+- 2019 [QUIC Observability](http://iepg.org/2019-03-24-ietf104/QUIC%20-%20IEPG%20-%20March%202019.pdf) - Rationale and Tools
 - 2018 [HTTP/2 & QUIC](https://www.blackhat.com/docs/us-16/materials/us-16-Pearce-HTTP2-&-QUIC-Teaching-Good-Protocols-To-Do-Bad-Things.pdf)
 - 2018 [QUIC Tutorial](https://www.ietf.org/proceedings/98/slides/slides-98-edu-sessf-quic-tutorial-00.pdf) - A New Internet Transport
 
