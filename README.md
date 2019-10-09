@@ -66,3 +66,4 @@ HTTP/3 Information
 - 2018 [The QUIC Fix for Optimal Video Streaming](https://arxiv.org/pdf/1809.10270.pdf)
 - 2018 [Google QUIC performance over a public SATCOM access](https://arxiv.org/pdf/1810.04970.pdf)
     - Google QUIC (gQUIC) and IETF QUIC(iQUIC)
+- 2015 [HTTP/2and QUIC for Virtual Worlds and the 3D Web](https://www.sciencedirect.com/science/article/pii/S1877050915016853)
