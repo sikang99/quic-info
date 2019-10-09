@@ -30,7 +30,8 @@ HTTP/3 Information
     - [HTTP/3, draft-ietf-quic-http-23](https://tools.ietf.org/html/draft-ietf-quic-http-23)
 - [GoQuic](http://devsisters.github.io/goquic/) - QUIC support for Go
 - [The Chromium Projects](https://www.chromium.org/): [QUIC, a multiplexed stream transport over UDP](https://www.chromium.org/quic)
-
+- [The Top 25 Quic Open Source Projects](https://awesomeopensource.com/projects/quic)
+- [Algernon](https://algernon.roboticoverlords.org/)
 
 ### Test for QUIC
 - [Cloudflare and QUIC](https://cloudflare-quic.com/)
@@ -42,11 +43,17 @@ HTTP/3 Information
 - [devsisters/libquic](https://github.com/devsisters/libquic) - QUIC, a multiplexed stream transport over UDP
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - Savoury implementation of the QUIC transport protocol and HTTP/3 
 - [pion/quic](https://github.com/pion/quic) - A Go implementation of the QUIC API for Peer-to-peer and Client-to-Server Connections
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 
 
 ### Sldies
 - 2018 [HTTP/2 & QUIC](https://www.blackhat.com/docs/us-16/materials/us-16-Pearce-HTTP2-&-QUIC-Teaching-Good-Protocols-To-Do-Bad-Things.pdf)
+- 2018 [QUIC Tutorial](https://www.ietf.org/proceedings/98/slides/slides-98-edu-sessf-quic-tutorial-00.pdf) - A New Internet Transport
+
 
 ### Papers
+- 2019 [The Case for Writing Network Drivers in High-Level Programming Languages](https://arxiv.org/pdf/1909.06344.pdf)
+- 2019 [Recent Progress on the QUIC Protocol](https://www.net.in.tum.de/fileadmin/TUM/NET/NET-2019-06-1/NET-2019-06-1_16.pdf)
+- 2019 [A QUIC Implementation for ns-3](https://arxiv.org/pdf/1902.06121.pdf)
 - 2018 [The QUIC Fix for Optimal Video Streaming](https://arxiv.org/pdf/1809.10270.pdf)
 
