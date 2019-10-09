@@ -15,7 +15,10 @@ HTTP/3 Information
     - QUIC is designed with modern mobility in mind and those data handovers will be much faster and smoother, meaning uninterrupted service.
     - In TCP, Anycast or ECMP routing for load-balancing could face problems.
 - 2019/08/05 [First HTTP/3 with curl](https://daniel.haxx.se/blog/2019/08/05/first-http-3-with-curl/)
+- 2019/04/25 [gQUIC Support & the Road to HTTP/3](https://www.cdn77.com/blog/gquic-support-road-to-http-3/)
+- 2019/02/11 [webrtcH4cKS: ~ First steps with QUIC DataChannels](https://webrtchacks.com/first-steps-with-quic-datachannel/)
 - 2019/01/24 [HTTP/3: From root to tip](https://blog.cloudflare.com/http-3-from-root-to-tip/)
+- 2019/01/04 [**QUICの現状確認をしたい**](https://qiita.com/flano_yuki/items/251a350b4f8a31de47f5)
 - 2019/00/00
 - 2018/11/16 [What is HTTP/3 ?](https://medium.com/devgorilla/what-is-http-3-94335c57823f)
 - 2018/10/29 [What's Happening with QUIC](https://www.ietf.org/blog/whats-happening-quic/)
@@ -28,7 +31,7 @@ HTTP/3 Information
     - [HTTP/3](https://en.wikipedia.org/wiki/HTTP/3)
 - daniel.haxxe.se's Tag Archives: [QUIC](https://daniel.haxx.se/blog/tag/quic/)
     - [HTTP/3 Explained](https://daniel.haxx.se/http3-explained/)
-- IETF
+- IETF Working Group for [QUIC](https://quicwg.org/)
     - [HTTP/3, draft-ietf-quic-http-23](https://tools.ietf.org/html/draft-ietf-quic-http-23)
 - [GoQuic](http://devsisters.github.io/goquic/) - QUIC support for Go
 - [The Chromium Projects](https://www.chromium.org/): [QUIC, a multiplexed stream transport over UDP](https://www.chromium.org/quic)
@@ -54,12 +57,14 @@ HTTP/3 Information
 
 
 ### Sldies
+- 2019 [**From gQUIC to IETF QUIC and Beyond**](http://mile-high.video/files/mhv2019/pdf/day1/1_11_Swett.pdf)
 - 2019 [QUIC Observability](http://iepg.org/2019-03-24-ietf104/QUIC%20-%20IEPG%20-%20March%202019.pdf) - Rationale and Tools
 - 2018 [HTTP/2 & QUIC](https://www.blackhat.com/docs/us-16/materials/us-16-Pearce-HTTP2-&-QUIC-Teaching-Good-Protocols-To-Do-Bad-Things.pdf)
 - 2018 [QUIC Tutorial](https://www.ietf.org/proceedings/98/slides/slides-98-edu-sessf-quic-tutorial-00.pdf) - A New Internet Transport
 
 
 ### Papers
+- 2019 [A QUIC Look at Web Tracking](https://svs.informatik.uni-hamburg.de/publications/2019/2019-02-26-Sy-PET_Symposium-A_QUIC_Look_at_Web_Tracking.pdf)
 - 2019 [The Case for Writing Network Drivers in High-Level Programming Languages](https://arxiv.org/pdf/1909.06344.pdf)
 - 2019 [Recent Progress on the QUIC Protocol](https://www.net.in.tum.de/fileadmin/TUM/NET/NET-2019-06-1/NET-2019-06-1_16.pdf)
 - 2019 [A QUIC Implementation for ns-3](https://arxiv.org/pdf/1902.06121.pdf)
