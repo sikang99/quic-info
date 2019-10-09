@@ -5,6 +5,7 @@ HTTP/3 Information
 
 
 ### History
+- 2019/09/30 [Cloudflare and Google Chrome add HTTP/3 and QUIC support; Mozilla Firefox soon to follow suit](https://hub.packtpub.com/cloudflare-and-google-chrome-add-http-3-and-quic-support-mozilla-firefox-soon-to-follow-suit/)
 - 2019/09/27 [How HTTP/3 and QUIC Will Speed Up Your Web Browsing](https://www.howtogeek.com/442047/how-http3-and-quic-will-speed-up-your-web-browsing/)
 - 2019/09/26 [Cloudflare, Google Chrome, and Firefox add HTTP/3 support](https://www.zdnet.com/article/cloudflare-google-chrome-and-firefox-add-http3-support/)
 - 2019/09/26 [HTTP/3: the past, the present, and the future](https://blog.cloudflare.com/http3-the-past-present-and-future/)
@@ -56,4 +57,5 @@ HTTP/3 Information
 - 2019 [Recent Progress on the QUIC Protocol](https://www.net.in.tum.de/fileadmin/TUM/NET/NET-2019-06-1/NET-2019-06-1_16.pdf)
 - 2019 [A QUIC Implementation for ns-3](https://arxiv.org/pdf/1902.06121.pdf)
 - 2018 [The QUIC Fix for Optimal Video Streaming](https://arxiv.org/pdf/1809.10270.pdf)
-
+- 2018 [Google QUIC performance over a public SATCOM access](https://arxiv.org/pdf/1810.04970.pdf)
+    - Google QUIC (gQUIC) and IETF QUIC(iQUIC)
