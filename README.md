@@ -2,6 +2,7 @@
 HTTP/3 Information
 - QUIC (Quick UDP Internet Connections)
 - TLS 1.3
+- UDP
 
 
 ### History
@@ -32,7 +33,7 @@ HTTP/3 Information
 - [GoQuic](http://devsisters.github.io/goquic/) - QUIC support for Go
 - [The Chromium Projects](https://www.chromium.org/): [QUIC, a multiplexed stream transport over UDP](https://www.chromium.org/quic)
 - [The Top 25 Quic Open Source Projects](https://awesomeopensource.com/projects/quic)
-- [Algernon](https://algernon.roboticoverlords.org/)
+- [Algernon](https://algernon.roboticoverlords.org/) - Web server with built-in support for QUIC, HTTP/2, Lua, Markdown, Pongo2, HyperApp, Amber, Sass(SCSS), GCSS, JSX, BoltDB (built-in, stores the database in a file, like SQLite), Redis, PostgreSQL, MariaDB/MySQL, rate limiting, graceful shutdown, plugins, users and permissions.
 - [QUIC research](https://quic.edm.uhasselt.be/)
 
 
@@ -49,6 +50,8 @@ HTTP/3 Information
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 - [google/quic-trace](https://github.com/google/quic-trace) - Library and tools for transcribing QUIC connections.
 - [rmarx/QUICvis](https://github.com/rmarx/QUICvis) - <DEPRECATED> Assortment of debugging tools for the IETF QUIC and HTTP/3 protocols
+- [quiclog/qvis](https://github.com/quiclog/qvis) - QUIC and HTTP/3 visualization tools 
+
 
 ### Sldies
 - 2019 [QUIC Observability](http://iepg.org/2019-03-24-ietf104/QUIC%20-%20IEPG%20-%20March%202019.pdf) - Rationale and Tools
