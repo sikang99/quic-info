@@ -7,8 +7,15 @@
     - UDP
 
 
+### Specification
+- [WebTransport](https://wicg.github.io/web-transport/), Draft Community Group Report, 4 September 2019
+- [The WebTransport Protocol Framework](https://tools.ietf.org/html/draft-vvv-webtransport-overview-00) - draft-vvv-webtransport-overview-00, May 3, 2019
+- [WebTransport over QUIC](https://tools.ietf.org/html/draft-vvv-webtransport-quic-00) - draft-vvv-webtransport-quic-00, May 3, 2019
+- [WebTransport over HTTP/3](https://tools.ietf.org/html/draft-vvv-webtransport-http3-00) - draft-vvv-webtransport-http3-00, May 3, 2019
+
+
 ### History
-- 2019/10/10 [WebTransport over QUIC 대해](https://asnokaze.hatenablog.com/entry/2019/10/10/015423)
+- 2019/10/10 [WebTransport over QUIC について](https://asnokaze.hatenablog.com/entry/2019/10/10/015423)
 - 2019/09/30 [Cloudflare and Google Chrome add HTTP/3 and QUIC support; Mozilla Firefox soon to follow suit](https://hub.packtpub.com/cloudflare-and-google-chrome-add-http-3-and-quic-support-mozilla-firefox-soon-to-follow-suit/)
 - 2019/09/27 [How HTTP/3 and QUIC Will Speed Up Your Web Browsing](https://www.howtogeek.com/442047/how-http3-and-quic-will-speed-up-your-web-browsing/)
 - 2019/09/26 [Cloudflare, Google Chrome, and Firefox add HTTP/3 support](https://www.zdnet.com/article/cloudflare-google-chrome-and-firefox-add-http3-support/)
