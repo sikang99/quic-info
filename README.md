@@ -14,6 +14,7 @@ HTTP/3 Information
 - 2019/09/23 [Quic! Head to the latest Chrome version and try out HTTP/3](https://www.theregister.co.uk/2019/09/26/quic_head_to_the_latest_chrome_version_and_try_out_http3/) - New, faster protocol becomes a reality
     - QUIC is designed with modern mobility in mind and those data handovers will be much faster and smoother, meaning uninterrupted service.
     - In TCP, Anycast or ECMP routing for load-balancing could face problems.
+- 2019/09/16 [TPAC 2019 breakout sessions](https://w3c.github.io/tpac-breakouts/sessions.html)
 - 2019/08/18 [**WebTransport と WebCodecs そして Web はどこまで “ゲーム化” するか**](https://blog.jxck.io/entries/2019-08-18/webtransport-and-webcodecs.html)
 - 2019/08/05 [First HTTP/3 with curl](https://daniel.haxx.se/blog/2019/08/05/first-http-3-with-curl/)
 - 2019/04/25 [gQUIC Support & the Road to HTTP/3](https://www.cdn77.com/blog/gquic-support-road-to-http-3/)
@@ -61,6 +62,7 @@ HTTP/3 Information
 
 
 ### Sldies
+- 2019 [**WebTransport + WebCodecs**](https://www.w3.org/2018/12/games-workshop/slides/21-webtransport-webcodecs.pdf)
 - 2019 [**From gQUIC to IETF QUIC and Beyond**](http://mile-high.video/files/mhv2019/pdf/day1/1_11_Swett.pdf)
 - 2019 [QUIC Observability](http://iepg.org/2019-03-24-ietf104/QUIC%20-%20IEPG%20-%20March%202019.pdf) - Rationale and Tools
 - 2018 [HTTP/2 & QUIC](https://www.blackhat.com/docs/us-16/materials/us-16-Pearce-HTTP2-&-QUIC-Teaching-Good-Protocols-To-Do-Bad-Things.pdf)
