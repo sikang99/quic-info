@@ -48,7 +48,7 @@ HTTP/3 Information
 
 
 ### Open Source
-- [pthatcherg/quic-go](https://github.com/pthatcherg/quic-go)
+- [pthatcherg/quic-go](https://github.com/pthatcherg/quic-go) - fork of lucas-clemente/quic-go
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [devsisters/goquic](https://github.com/devsisters/goquic) - QUIC support for Go
 - [devsisters/libquic](https://github.com/devsisters/libquic) - QUIC, a multiplexed stream transport over UDP
