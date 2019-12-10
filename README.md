@@ -9,10 +9,10 @@
 
 ### Specification
 - [WebTransport](https://wicg.github.io/web-transport/), Draft Community Group Report, 4 September 2019
+- [QUIC API for Peer-to-peer Connections](https://w3c.github.io/webrtc-quic/), Draft Community Group Report 07 August 2019
 - [The WebTransport Protocol Framework](https://tools.ietf.org/html/draft-vvv-webtransport-overview-00) - draft-vvv-webtransport-overview-00, May 3, 2019
 - [WebTransport over QUIC](https://tools.ietf.org/html/draft-vvv-webtransport-quic-00) - draft-vvv-webtransport-quic-00, May 3, 2019
 - [WebTransport over HTTP/3](https://tools.ietf.org/html/draft-vvv-webtransport-http3-00) - draft-vvv-webtransport-http3-00, May 3, 2019
-
 
 ### History
 - 2019/10/10 [WebTransport over QUIC について](https://asnokaze.hatenablog.com/entry/2019/10/10/015423)
@@ -27,6 +27,7 @@
 - 2019/09/16 [TPAC 2019 breakout sessions](https://w3c.github.io/tpac-breakouts/sessions.html)
 - 2019/08/18 [**WebTransport と WebCodecs そして Web はどこまで “ゲーム化” するか**](https://blog.jxck.io/entries/2019-08-18/webtransport-and-webcodecs.html)
 - 2019/08/05 [First HTTP/3 with curl](https://daniel.haxx.se/blog/2019/08/05/first-http-3-with-curl/)
+- 2019/05/14 [**Employing QUIC Protocol to Optimize Uber’s App Performance**](https://eng.uber.com/employing-quic-protocol/)
 - 2019/04/25 [gQUIC Support & the Road to HTTP/3](https://www.cdn77.com/blog/gquic-support-road-to-http-3/)
 - 2019/02/11 [webrtcH4cKS: ~ First steps with QUIC DataChannels](https://webrtchacks.com/first-steps-with-quic-datachannel/)
 - 2019/01/24 [HTTP/3: From root to tip](https://blog.cloudflare.com/http-3-from-root-to-tip/)
