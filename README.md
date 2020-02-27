@@ -73,6 +73,8 @@
 - [quiche/](https://quiche.googlesource.com/quiche/) - QUICHE (QUIC, Http/2, Etc) is Google‘s implementation of QUIC and related protocols
     - [QuicTransport](https://quiche.googlesource.com/quiche/+/refs/heads/master/quic/quic_transport/)
 - [Ne0nd0g/merlin](https://github.com/Ne0nd0g/merlin) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.
+- [**marten-seemann/qtls**](https://github.com/marten-seemann/qtls) - Go standard library TLS 1.3 implementation, modified for QUIC
+
 
 
 ### Sldies
